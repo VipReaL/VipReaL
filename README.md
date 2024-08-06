@@ -17,6 +17,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Type%20Script%20-%20%233178C6?logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20-%20%2361DAFB?logo=React&logoColor=white" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux%20-%20%23764ABC?logo=redux&logoColor=white" alt="Redux" /></a>
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Router%20-%20%23CA4245?logo=reactrouter&logoColor=white" alt="Redux" /></a>
 
 ### 🛠 Инструменты:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20-%20%23F05032?logo=git&logoColor=white" alt="Git" /></a>
