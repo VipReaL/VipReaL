@@ -22,6 +22,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20-%20%23F05032?logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Webpack%20-%20%238DD6F9?logo=webpack&logoColor=white" alt="Webpack" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/npm-%20%23CB3837?logo=npm&logoColor=white" alt="VS Code" /></a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Storybook%20-%20%23FF4785?logo=storybook&logoColor=white" alt="Storybook" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma%20-%20%23F24E1E?logo=figma&logoColor=white" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop%20-%20%2331A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
 
