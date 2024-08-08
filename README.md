@@ -18,12 +18,14 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20-%20%2361DAFB?logo=React&logoColor=white" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux%20-%20%23764ABC?logo=redux&logoColor=white" alt="Redux" /></a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Router%20-%20%23CA4245?logo=reactrouter&logoColor=white" alt="Redux" /></a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Storybook%20-%20%23FF4785?logo=storybook&logoColor=white" alt="Storybook" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sass%20-%20%23CC6699?logo=sass&logoColor=white" alt="scss" /></a>
 
 ### 🛠 Инструменты:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20-%20%23F05032?logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash%20-%20%234EAA25?logo=gnubash&logoColor=white" alt="Bash" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Webpack%20-%20%238DD6F9?logo=webpack&logoColor=white" alt="Webpack" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/npm-%20%23CB3837?logo=npm&logoColor=white" alt="VS Code" /></a>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Storybook%20-%20%23FF4785?logo=storybook&logoColor=white" alt="Storybook" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma%20-%20%23F24E1E?logo=figma&logoColor=white" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop%20-%20%2331A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
 
