@@ -19,7 +19,7 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux%20-%20%23764ABC?logo=redux&logoColor=white" alt="Redux" /></a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Router%20-%20%23CA4245?logo=reactrouter&logoColor=white" alt="Redux" /></a>
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Storybook%20-%20%23FF4785?logo=storybook&logoColor=white" alt="Storybook" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sass%20-%20%23CC6699?logo=sass&logoColor=white" alt="scss" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sass%20-%20%23CC6699?logo=sass&logoColor=white" alt="scss" /></a>
 
 ### 🛠 Инструменты:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20-%20%23F05032?logo=git&logoColor=white" alt="Git" /></a>
