@@ -6,7 +6,7 @@
 ✉️ Вы можете связаться со мной по
 <a href="https://t.me/VipSega" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram%20-%20%2326A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://vk.com/sergey.igoshin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%20-%20%230077FF?logo=vk&logoColor=white" alt="VK" /></a>
-<a href="https://discord.com/channels/199575525155405825/894169679050969139" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord%20-%20%235865F2?logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.gg/u5d2D7PthE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord%20-%20%235865F2?logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="mailto:VipReaLWeb@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail%20-%20%23EA4335?logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="mailto:Vip.Igoshin@yandex.ru" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D0%BE%D1%87%D1%82%D0%B0%20-%20red?logo=maildotru&logoColor=white" alt="Yandex" /></a>
 
