@@ -70,6 +70,6 @@
 
 ![](https://komarev.com/ghpvc/?username=VipReaL)
 <a href="https://www.github.com/VipReaL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VipReaL?style=flat&logo=github" /></a>
-<a href="https://www.github.com/VipReaL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/vipreal?style=flat" /></a>
+<a href="https://www.github.com/VipReaL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/vipreal?style=flat&logo=apachespark&logoColor=white" /></a>
 <a href="https://discord.com/channels/199575525155405825/894169679050969139" target="_blank" rel="noreferrer"><img src="https://img.shields.io/discord/199575525155405825?logo=discord&label=Discord" /></a>
 <a href="https://www.codewars.com/users/Vip.ReaL" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Vip.ReaL/badges/micro" /></a>
