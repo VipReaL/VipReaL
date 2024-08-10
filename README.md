@@ -1,7 +1,8 @@
 # Привет, меня зовут Сергей! Добро пожаловать в мой GitHub.
 
-✨ Я - Фронтенд разработчик.  
+✨ Я frontend разработчик со страстью к вебу, программированию и изучению нового.   
 ✨ Стремлюсь постоянно развиваться и совершенствовать профессиональные навыки.  
+✨ Мои навыки: HTML, CSS, JavaScript, React, TypeScript, WebPack и т.д.  
 ✨ Прошёл курсы [Фронтенд-разработчик](https://practicum.yandex.ru/frontend-developer/?from=catalog) от Яндекс.Практикум.  
 ✉️ Вы можете связаться со мной по
 <a href="https://t.me/VipSega" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram%20-%20%2326A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -9,6 +10,11 @@
 <a href="https://discord.gg/u5d2D7PthE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord%20-%20%235865F2?logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="mailto:VipReaLWeb@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail%20-%20%23EA4335?logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="mailto:Vip.Igoshin@yandex.ru" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D0%BE%D1%87%D1%82%D0%B0%20-%20red?logo=maildotru&logoColor=white" alt="Yandex" /></a>
+
+### 🎨 Мое портфолио
+🍔 [Приложение по созданию и заказу бургеров]() - онлайн-платформа для воображаемого ресторана бургеров, где пользователи могут заказывать бургеры, входить в систему, регистрироваться и просматривать свои заказы. Этот проект построен с использованием современных технологий веб-разработки, включая React, Redux Toolkit, TypeScript, Webpack.  
+🏪 [Интернет магазин товаров](https://vipreal.github.io/web-larek-frontend/) - для этого проекта я использовал TypeScript и ООП-подход. Это полностью функционирующий проект с интеграцией API.  
+🏝 [Сервис по размещению своих любимых мест](https://vipreal.github.io/mesto-project-ff/) -   
 
 ### 💻 Технологии
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5%20-%20%23E34F26?logo=html5&logoColor=white" alt="HTML5" /></a>
